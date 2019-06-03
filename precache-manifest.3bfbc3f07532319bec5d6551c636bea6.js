@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25dae4d6df41a004deb86f1522e2ba25",
+    "revision": "a2d8b961d1882cd8ecf068e7fa142dc3",
     "url": "/techskulls/index.html"
   },
   {
-    "revision": "dbfa4b146c6b6de75065",
+    "revision": "f99e5a1c44b52999ffeb",
     "url": "/techskulls/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techskulls/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "dbfa4b146c6b6de75065",
-    "url": "/techskulls/static/js/main.a9c3509d.chunk.js"
+    "revision": "f99e5a1c44b52999ffeb",
+    "url": "/techskulls/static/js/main.82646b11.chunk.js"
   },
   {
     "revision": "bac494452b5f4f6f3660",
     "url": "/techskulls/static/js/runtime~main.c2984382.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/techskulls/static/media/logo.5d5d9eef.svg"
+    "revision": "10179515982d7d4ec38bda78d4108b85",
+    "url": "/techskulls/static/media/skull.10179515.png"
   }
 ]);

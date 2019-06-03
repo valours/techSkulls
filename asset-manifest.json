@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/techskulls/static/css/main.2cce8147.chunk.css",
-    "main.js": "/techskulls/static/js/main.a9c3509d.chunk.js",
-    "main.js.map": "/techskulls/static/js/main.a9c3509d.chunk.js.map",
+    "main.js": "/techskulls/static/js/main.82646b11.chunk.js",
+    "main.js.map": "/techskulls/static/js/main.82646b11.chunk.js.map",
     "runtime~main.js": "/techskulls/static/js/runtime~main.c2984382.js",
     "runtime~main.js.map": "/techskulls/static/js/runtime~main.c2984382.js.map",
     "static/js/2.b41502e9.chunk.js": "/techskulls/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/techskulls/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/techskulls/index.html",
-    "precache-manifest.804a8c838417c3cf9680c23cd082ac53.js": "/techskulls/precache-manifest.804a8c838417c3cf9680c23cd082ac53.js",
+    "precache-manifest.3bfbc3f07532319bec5d6551c636bea6.js": "/techskulls/precache-manifest.3bfbc3f07532319bec5d6551c636bea6.js",
     "service-worker.js": "/techskulls/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/techskulls/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/techskulls/static/media/logo.5d5d9eef.svg"
+    "static/media/skull.png": "/techskulls/static/media/skull.10179515.png"
   }
 }
