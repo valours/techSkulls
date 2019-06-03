@@ -2,7 +2,7 @@
   "name": "techskulls",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://valours.github.io/react-gh-pages",
+  "homepage": "http://valours.github.io/techskulls",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
