@@ -4,9 +4,11 @@
   "private": true,
   "homepage": "http://valours.github.io/techskulls",
   "dependencies": {
+    "algoliasearch": "3.33.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-instantsearch-dom": "5.7.0",
     "react-scripts": "3.0.1"
   },
   "scripts": {

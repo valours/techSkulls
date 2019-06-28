@@ -1,13 +1,11 @@
-import React from 'react';
-import logo from './skull.png';
-import './App.css';
+import React from "react";
+import Search from "./components/Search";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
+      <Search />
     </div>
   );
 }

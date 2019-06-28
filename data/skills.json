@@ -1,0 +1,5 @@
+[
+  { "name": "javascript", "type": "language" },
+  { "name": "nodejs", "type": "language" },
+  { "name": "typescript", "type": "language" }
+]
